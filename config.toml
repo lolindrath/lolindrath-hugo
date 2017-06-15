@@ -1,0 +1,64 @@
+languageCode = "en-us"
+theme = "beautifulhugo"
+title = "Lolindrath"
+baseURL = "https://lolindrath.com/"
+pygmentsstyle = "solarizedlight"
+pygmentsUseClasses = true
+pygmentCodeFences = true
+
+disqusShortname = "lolindrath"
+googleAnalytics = "UA-67549-1"
+
+[permalinks]
+	post = "/:year/:month/:day/:title/"
+
+[Params]
+  subtitle = "/dev/urandom > hugo new post"
+  logo = "bw_octo.png"
+  comments = true
+  rss = true
+
+[Author]
+  name = "Andy Williams"
+  email = "lolindrath@gmail.com"
+  github = "lolindrath"
+  twitter = "lolindrath"
+  linkedin = "lolindrath"
+
+ [[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Now"
+    url = "/now/"
+    weight = 3
+
+[[menu.main]]
+  name = "Tags"
+  url = "tags"
+  weight = 3
+
+[[menu.main]]
+  name = "Archive"
+  url = "/post/"
+  weight = 3
+
+
+[mediaTypes]
+[mediaTypes."application/atom"]
+  suffix = "xml"
+
+[outputFormats.Atom]
+  mediaType = "application/atom"
+  baseName = "atom"
+  isPlainText = false
+
+[outputs]
+  home = [ "HTML", "Atom", "RSS" ]
