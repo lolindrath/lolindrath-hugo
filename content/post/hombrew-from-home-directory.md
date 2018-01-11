@@ -6,6 +6,8 @@ published: true
 tags:
   - osx
   - homebrew
+aliases:
+  - /2011/09/13/hombrew-from-home-directory/
 ---
 
 I just got a Macbook Pro at work. So far I like it a lot but I ran into the problem that I'm not an admin (and the permissions on `/usr/local/` were completely locked down) on it and I wanted to be able to install [Homebrew](https://mxcl.github.com/homebrew/) tools whenever I felt like it.
