@@ -1,0 +1,80 @@
+==================================================================
+https://keybase.io/lolindrath
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lolindrath.com
+  * I am lolindrath (https://keybase.io/lolindrath) on keybase.
+  * I have a public key with fingerprint 82BF 9AF7 1211 828A EFEE  F1DB 8833 042C 0281 D090
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101586830dd4d296e1506b2b8ce167702beb4892b91f7a415c2f870ccbc4eb1ff470a",
+            "fingerprint": "82bf9af71211828aefeef1db8833042c0281d090",
+            "host": "keybase.io",
+            "key_id": "8833042c0281d090",
+            "kid": "0101586830dd4d296e1506b2b8ce167702beb4892b91f7a415c2f870ccbc4eb1ff470a",
+            "uid": "b459366fe657c9a32a9b7ecff8a07800",
+            "username": "lolindrath"
+        },
+        "revoke": {
+            "sig_ids": [
+                "4073e81b789ad7662a49015d40a388e794f44deb249a83eecb20a8136fb748760f"
+            ]
+        },
+        "service": {
+            "hostname": "lolindrath.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1497554722,
+    "expire_in": 157680000,
+    "prev": "478e245809169cab390a5f81fc00e684057b77a40c4982a7d8dfa0c00baf191e",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.72
+Comment: https://keybase.io/crypto
+
+yMODAnicrZJtUFRVGMd3sRzZIiQYghpRrtBsDOC5d+/LuWtBKunEDDuJMIah2305
+d/e2677c3UVUxEFnMsZGpMhJMmEECnVBmqkpIjZJQRLSMSdlGkoMVhCBJmQYxhS6
+l6lP9bFPZ855/s/v+Z//ORejlugMerqcu1RW3btN39c1F9AVrb+F7cV4t7gbM+/F
+HGhxQU4R+fxWhyxiZgzgAKcgDU1AFEmRYGmEU4DmCR4KCKcZBhA84knIEjyLSwxH
+4pRASJABgsALJOJxSSIZwGHpmCS7bEjxKLLLr2IhwUssJzE4geOQgBySEJJwkYfQ
+ZAIkIQAC4iJggdpod/u0DtUcz/lQpuxWz9SNddHef+j/Z9+BRRxPUqyJpiVEU4zA
+ciaCY3kGCZIEOcBAoM0N+JDi4nYiVe10O2WXqHB+O7YvHVNQiduBtGR9sk217cPM
+b2AkYEwI4jwDWU5kaJrgSFZ1LJKAM0GIGJaUSFJEPEGyHDQhJPAE4CBuoiWeISFD
+AwnbrrLVmSWysAjXcvrX/EzBvVP15lHcfrfgdqo1u9/v8Zk1X/7dHk28C/HWvzFW
+Xm1T30ntKEGKT3a7MDOuKgW/rHFxkmUoimQIIh1DpR5ZQVZZU1AMrUYAgDYHlahI
+koGIICkIWJxmBY43sYCjJIhLAgCIhiSgGJ5RQwcCyUKCY0QoShxQizwn4SyOMO1i
+XpdbY6s+OZvKVLNzcf6AgrB933UVP6bTG3RLH4/QPrDOELn8n28dcSN6oeh8fOJ8
+zHNXxkLnljKPlgWrfqjlPCM9/RVZLZEZzx9PqLkDkvnR/MO1B3I/mq+LCRSF8N5l
+odT9p7LunyZLF35sqHdW5Vb2N4cSEw25R/vtxxQhdWZ8dLMx+c+2e7OOTcHiI0OV
+7a+V2FI2rmnvaL9maXx3eur9VR8kOMJDeGTBrhPVZZae6K1fPZH2AMwvNGExq17p
+iLh5+LMg1IfL75dWTGdvKPSNbRyM+jSuICdenLs6EL3nrTpdwa3k7uHhlDljRmvq
+060H56S2dTkTr389fqY2fDe2s/vz62vWNWb/3OAFpdlGxztFM3Hy5Eyd1FfdUhm6
+8uyIbYVjrbfetmOr91tT1kGPy5F5WVfRnjRxOra+vlp26LHZ2IFLloVDof5guGYw
+N/zetmZv/5dnG85tnqSSRwe2D3urmozGxKnxnMspSurDhagA9WG8lN50ItjcpbOO
+NlR0uvDKjKrj1gtRfR3ohamVlTemKh+ebS4zlz1z0Xj7ZuKmVrameM/kU+svOIc+
+3hJEhsLbYzvg5Lzx/ET96vhp4VRjkvGPwQe/LacLT9I5Swrt9LQlr603pqWz+Ke3
+fx85+c2T/oZZe3f+9ZfvjOGrXwq/2jixIu/QryvnDUreF590x31v0b254dG1pJRM
+/ZaQJbMnfzztxQNn/Fet99YeyzryizcvWL4/mBC6mxb8C1cd4aQ=
+=6aoV
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lolindrath
+
+==================================================================
