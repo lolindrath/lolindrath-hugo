@@ -3,10 +3,16 @@ title: "Now"
 ---
 
 # Currently Reading
-* Undecided - Currently trying to read Lord of the Flies, Killing Floor, The Way of Kings and The Four Disciplines of Execution all at once.
+* Man's Search for Meaning - Viktor Frankl - This has come up on the [Bookworm Podcast](http://bookworm.fm) and the [Focus3 Podcast](https://www.focus3.com/podcast) so it's time.
+* Radical Candor - Kim Malone Scott
 
 # Listening To
-* [The Sophomore Lit Podcast](https://www.theincomparable.com/sophomorelit/) - great refresher on the books I've already read an I'm hoping to follow along on the ones I haven't read (staring with The Lord of the Flies).
+* [Bookworm Podcast](http://bookworm.fm) - two great guys reviewing books. I've been letting them filter my reading list. Many times their dicussion and summary has been enough that I don't have to read the whole book.
+* [Focus3 Podcast](https://www.focus3.com/podcast) - fantastic podcast about how to be a successful human. E+R=O, Doesn't Matter - Get Better, No Blaming, Complaining or Defending.
 
 # Working On
-* Deeply learning Git (more to come on this soon)
+* Being a better leader and manager.
+* Being a father to two kids
+
+
+Last Updated: 2018-04-04
