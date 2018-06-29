@@ -6,7 +6,7 @@ if [[ "prod" = $1 ]]; then
 	BASE_URL=https://lolindrath.com/
 	BUCKET_NAME=lolindrath.com
 else
-	HUGO_OPTIONS=-D
+	HUGO_OPTIONS=-DF # drafts and futures will show on Staging
 	BASE_URL=https://staging.lolindrath.com/
 	BUCKET_NAME=staging.lolindrath.com
 fi
