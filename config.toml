@@ -9,6 +9,8 @@ pygmentCodeFences = true
 disqusShortname = "lolindrath"
 googleAnalytics = "UA-67549-1"
 
+enableRobotsTXT = true
+
 [permalinks]
 	post = "/:year/:month/:day/:title/"
 
