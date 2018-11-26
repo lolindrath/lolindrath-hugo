@@ -9,8 +9,8 @@ title: "Now"
 
 
 ## Just Finished
-* Clean Coders - Robert C. Martin - I finished reading it but we're still working through it at our lunch and learn.
 * Control of Nature - John McPhee - Great book with excellent writing on an interesting topic. The tenuous control we have over nature itself
+* Breakfast of Champions - I forgot how weird this book was
 
 
 ## Soon
