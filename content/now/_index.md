@@ -31,3 +31,5 @@ title: "Now"
 
 
 Last Updated: 2018-12-18
+
+Inspired by [Derek Sivers](http://sivers.org/nowff)
