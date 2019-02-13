@@ -35,7 +35,7 @@ front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
 build:
-  preview_command: mkdir -p themes && cd themes && git submodule add https://github.com/halogenica/beautifulhugo.git
+  preview_command: mkdir -p themes && cd themes && git clone https://github.com/halogenica/beautifulhugo.git
     beautifulhugo && cd .. && hugo -E -F -D -b $DEPLOY_URL -d public
   publish_command: hugo -d public
   preview_env:
