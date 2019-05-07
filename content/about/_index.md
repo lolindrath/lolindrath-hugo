@@ -1,7 +1,5 @@
 ---
 title: "About"
-aliases:
-  - about.html
 ---
 
 ![Picture of Me](/me.png)
