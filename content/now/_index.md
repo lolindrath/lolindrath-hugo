@@ -3,35 +3,27 @@ title: "Now"
 ---
 
 # Currently Reading
-* High Output Management - Andy Grove - management book written by the Intel dude. I've seen this recommended strongly on a lot of podcasts by a lot of cool people.
-* The Calculating Stars - really good book so far
-* Radical Candor - Kim Malone Scott - man do I need to finish this... yet again
-* Washington: A Life - Ron Chernow - after reading Hamilton I picked this up, it is a very detailed account of his whole life with really interesting insights into how he created himself.
 
-(still working on all of these, been listening to a lot of audiobooks)
+* Circe - Madeline Miller - a retelling of the Odyssey, interesting so far.
+* High Output Management - Andy Grove - good but it's taking me a while to get through it.
 
 ## Just Finished
-* The Graveyard Book - Neil Gaiman
-* Stardust - Neil Gaiman
-* Rogue Protocol - Martha Wells
-* The Ocean at the End of the Lane - Neil Gaiman
-* Odd and the Frost Giants - Neil Gaiman
-* Artificial Conditions - Marth Wells
+* Washington: A Life - Ron Chernow - really briliant and complete biography. Washington was the right man at the right time, despite all his flaws.
 
 (Been hitting Libby hard for Neil Gaiman - love these books. Murderbot Diaries series is also great)
 
 ## Soon
+* 5 Dysfunctions of a Team
 * Station Eleven
 
 
 # Watching
-* (Finished) Battlestar Galactica
-* Nothing new has stuck yet to watch
+* Brooklyn 99 - really good
 
 # Working On
-* Leveling up my life management skills
+* Leveling up my life management skills (still). My platform at work has gotten super popular so we're dealing with a lot of growth issues.
 
 
-Last Updated: 2019-05-09
+Last Updated: 2019-11-11
 
 Inspired by [Derek Sivers](http://sivers.org/nowff)
