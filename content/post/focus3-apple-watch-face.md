@@ -7,6 +7,8 @@ tags: ["focus3", "discipline"]
 
 ---
 
+**Update 2020-08-17**: I got a new Apple Watch so I updated the wallpapers in this article to the new size. It should look much better on the new models.
+
 [![Apple Watch Screenshots](/focus3-apple-watch-face/focus3-apple-watch-face.gif)](/focus3-apple-watch-face/focus3-apple-watch-face.gif)
 
 I've been consuming a lot of podcasts and media by the [Focus 3 team](http://focus3.com), [Tim Kight](https://twitter.com/timothykight) and [Brian Kight](https://twitter.com/tbriankight) and I made some Apple Watch wallpapers to remind me of key points in their system.
@@ -42,18 +44,25 @@ Here's how you set up your new Watch Face:
 9. Go to your watch and make it the showing watch face
 
 
+![](/focus3-apple-watch-face/dmgb.png)
+[Old Models](/focus3-apple-watch-face/dmgb.png) | 
+[New Models](/focus3-apple-watch-face/dmgb_new.jpg)
 
-[![DMGB](/focus3-apple-watch-face/dmgb.png)](/focus3-apple-watch-face/dmgb.png)
+![No BCD](/focus3-apple-watch-face/no_bcd.png)
+[Old Models](/focus3-apple-watch-face/no_bcd.png) | 
+[New Models](/focus3-apple-watch-face/no_bcd_new.jpg)
+
+![Do The Work](/focus3-apple-watch-face/do_the_work.png)
+[Old Models](/focus3-apple-watch-face/do_the_work.png) | 
+[New Models](/focus3-apple-watch-face/do_the_work_new.jpg)
 
 
-[![No BCD](/focus3-apple-watch-face/no_bcd.png)](/focus3-apple-watch-face/no_bcd.png)
+![E+R=O](/focus3-apple-watch-face/eplusrequalso.png)
+[Old Models](/focus3-apple-watch-face/eplusrequalso.png) | 
+[New Models](/focus3-apple-watch-face/eplusrequalso_new.jpg)
 
 
-[![Do The Work](/focus3-apple-watch-face/do_the_work.png)](/focus3-apple-watch-face/do_the_work.png)
-
-
-[![E+R=O](/focus3-apple-watch-face/eplusrequalso.png)](/focus3-apple-watch-face/eplusrequalso.png)
-
-
-[![Discpline Over Default](/focus3-apple-watch-face/discipline_default.png)](/focus3-apple-watch-face/discipline_default.png)
+![Discipline Over Default](/focus3-apple-watch-face/discipline_default.png)
+[Old Models](/focus3-apple-watch-face/discipline_default.png) | 
+[New Models](/focus3-apple-watch-face/discipline_default_new.jpg)
 
