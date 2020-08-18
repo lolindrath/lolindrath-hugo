@@ -7,7 +7,7 @@ tags: ["focus3", "discipline"]
 
 ---
 
-**Update 2020-08-17**: I got a new Apple Watch so I updated the wallpapers in this article to the new size. It should look much better on the new models.
+**Update 2020-08-17**: I got a new Apple Watch so I updated the wallpapers in this article to the new size. It should look much better on the new models. Below there's now links for Old Model (Series 3 and below) and New Model (Series 4 and 5)
 
 [![Apple Watch Screenshots](/focus3-apple-watch-face/focus3-apple-watch-face.gif)](/focus3-apple-watch-face/focus3-apple-watch-face.gif)
 
