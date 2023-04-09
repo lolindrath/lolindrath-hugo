@@ -19,7 +19,7 @@ title: "Now"
 * Ted Lasso
 
 # Working On
-* Becoming more of an iOS expert
+* Becoming more of an iOS expert and build out a portfolio
 
 
 Last Updated: 2023-04-09
