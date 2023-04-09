@@ -3,27 +3,25 @@ title: "Now"
 ---
 
 # Currently Reading
-
-* Circe - Madeline Miller - a retelling of the Odyssey, interesting so far.
-* High Output Management - Andy Grove - good but it's taking me a while to get through it.
+* Asynchronous Programming with SwiftUI and Combine - Peter Friese
+* Observability Engineering - Charity Majors
+* Building Mobile Apps at Scale - Gergely Orosz
 
 ## Just Finished
-* Washington: A Life - Ron Chernow - really briliant and complete biography. Washington was the right man at the right time, despite all his flaws.
-
-(Been hitting Libby hard for Neil Gaiman - love these books. Murderbot Diaries series is also great)
+* Legends and Lattes - great, easy read
+* The Frugal Wizard's Handbook for Surviving Mideval England - Brandon Sanderson - best book money I've spent - his pandemic projects have been great reads
 
 ## Soon
-* 5 Dysfunctions of a Team
-* Station Eleven
-
+* The Staff Engineer's Path - Tanya Reilly - gonna have a book club at work for this one
 
 # Watching
-* Brooklyn 99 - really good
+* The Madolorian
+* Ted Lasso
 
 # Working On
-* Leveling up my life management skills (still). My platform at work has gotten super popular so we're dealing with a lot of growth issues.
+* Becoming more of an iOS expert
 
 
-Last Updated: 2019-11-11
+Last Updated: 2023-04-09
 
 Inspired by [Derek Sivers](http://sivers.org/nowff)
