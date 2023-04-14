@@ -1,4 +1,5 @@
 ---
+title: DispatchGroup, Combine, and UrlSession
 date: 2022-06-28T11:00:20-04:00
 tags: 
   - iOS
@@ -7,7 +8,6 @@ tags:
   - Combine
   - UrlSession
 ---
-# DispatchGroup, Combine, and UrlSession
 
 I ran into a bug a couple weeks ago at work that was quite interesting. We're using a DispatchGroup and `DispatchGroup.notify` to stop our pull to refresh animation once all the microservices come back with results.
 
