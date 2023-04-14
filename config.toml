@@ -27,7 +27,7 @@ enableRobotsTXT = true
   twitter = "lolindrath"
   linkedin = "lolindrath"
 
- [[menu.main]]
+[[menu.main]]
     name = "Blog"
     url = ""
     weight = 1
@@ -40,6 +40,11 @@ enableRobotsTXT = true
 [[menu.main]]
     name = "Now"
     url = "/now/"
+    weight = 3
+
+[[menu.main]]
+    name = "Portfolio"
+    url = "/portfolio/"
     weight = 3
 
 [[menu.main]]
