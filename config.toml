@@ -19,6 +19,8 @@ enableRobotsTXT = true
   logo = "bw_octo.png"
   comments = true
   rss = true
+  readingTime = true
+  hideAuthor = true
 
 [Author]
   name = "Andy Williams"
