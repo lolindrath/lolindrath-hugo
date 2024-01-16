@@ -3,25 +3,26 @@ title: "Now"
 ---
 
 # Currently Reading
-* Asynchronous Programming with SwiftUI and Combine - Peter Friese
-* Observability Engineering - Charity Majors
-* Building Mobile Apps at Scale - Gergely Orosz
+* Finite and Infinite Games - Carse - kinda trippy and deep, wasn't prepared for the book to be quite like this
+* Modern Concurrency in Swift Second Edition - Kodeco Team - great overview of async/await and the benefits
 
 ## Just Finished
-* Legends and Lattes - great, easy read
-* The Frugal Wizard's Handbook for Surviving Mideval England - Brandon Sanderson - best book money I've spent - his pandemic projects have been great reads
+* The Staff Engineer's Path - Tanya Reilly - Great book, there's a lot there and was great fodder for the work book club
+* Piranesi - Susanna Clarke - great book, so atmospheric and a great ending too.
+* The Great Mental Models Vol 3 - Fantastic book - this one was about math and systems models and was much more consumable than Vol 1 which I'm still digesting and internalizing.
 
 ## Soon
-* The Staff Engineer's Path - Tanya Reilly - gonna have a book club at work for this one
+* Antifragile
 
 # Watching
-* The Madolorian
-* Ted Lasso
+* The Expanse - just finished it - this is some great epic sci-fi - time for the spin off!
+* The Peripheral - Also great sci-fi, makes me wish I read the books first
+* House MD - this is my washing dishes show so it's taking a while, I'm on the last season (it's also from the time when TV seasons had 24 episodes 😱)
 
 # Working On
-* Becoming more of an iOS expert and build out a portfolio
+* A better SEPTA app focused on regional rail. My goal is to having something out this quarter for a portfolio project.
 
 
-Last Updated: 2023-04-09
+Last Updated: 2024-01-16
 
 Inspired by [Derek Sivers](http://sivers.org/nowff)
