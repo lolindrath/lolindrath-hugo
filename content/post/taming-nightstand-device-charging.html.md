@@ -3,7 +3,7 @@ title: Taming Nightstand Device Charging
 date: 2015-01-30T11:00:00Z
 tags:
 comments: true
-published: true
+published: false
 tags:
   - organization
 ---

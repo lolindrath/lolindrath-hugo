@@ -8,7 +8,9 @@
     <uri>{{ .Site.BaseURL }}</uri>
   </author>
   <id>{{ .Permalink }}</id>
-  {{ range first 15 .Data.Pages }}
+  {{ $pages := where .Data.Pages ".Params.disable_feed" "!=" true }}
+  {{ $pages := where $pages ".Type" "post" }}
+  {{ range first 15 $pages }}
   <entry>
     <title>{{ .Title }}</title>
     <link rel="alternate" href="{{ .Permalink }}"/>
