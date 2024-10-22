@@ -2,7 +2,7 @@
 title: Linux Kernel Names
 date: 2024-10-22
 comments: true
-published: false
+published: true
 tags:
   - linux
   - fun
