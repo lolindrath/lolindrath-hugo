@@ -12,6 +12,8 @@ Instagram served me a Reel the other day of Linux Torvalds talking about
 how every Linux kernel had a name in the Makefile. There's some pretty good ones
 but I think my favorite is `Linux for Workgroups`.
 
+<!-- more -->
+
 ```
 "Divemaster Edition"
 "People's Front"
